@@ -4,11 +4,11 @@
     "app_onesignalkey": "212129",
     "ads_placements": {
          "__version": "Box V1.6",
-        "update_to_url": "https://play.google.com/store/apps/details?id=com.TZgame.Brawlforboxstar",
+        "update_to_url": "https://play.google.com/store/apps/details?id=com.brawlstats.boxsimulatorforbrawlstats",
         "MESSAGE": "================== ADMOB ===========================,",
         
-        "admobInterId": "ca-app-pub-9320287528012724/2714659870",
-        "admobReward": "ca-app-pub-9320287528012724/5065491041",
+        "admobInterId": "ca-app-pub-3071649658162405/9827299037",
+        "admobReward": "ca-app-pub-3071649658162405/7991473184",
         
         "MESSAGE_": "================== APPLOVIN ===========================",
         
@@ -63,4 +63,5 @@
         "AdsFreeBoxCounter" : 5
         
     }
+
 }
