@@ -7,8 +7,8 @@
         "update_to_url": "https://play.google.com/store/apps/details?id=com.brawlstats.boxsimulatorforbrawlstats",
         "MESSAGE": "================== ADMOB ===========================,",
         
-        "admobInterId": "ca-app-pub-3071649658162405/9827299037",
-        "admobReward": "ca-app-pub-3071649658162405/7991473184",
+        "admobInterId": "ca-app-pub-8511546964314062/2448796876",
+        "admobReward": "ca-app-pub-8511546964314062/4040252169",
         
         "MESSAGE_": "================== APPLOVIN ===========================",
         
@@ -65,3 +65,4 @@
     }
 
 }
+
